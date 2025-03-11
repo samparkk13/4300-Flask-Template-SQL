@@ -1,6 +1,6 @@
 # 4300-Flask-Template-SQL
 
-## Contents
+## Contents 
 
 - [Summary](#summary)
 - [Deploying on the server](#deploying-on-the-server )
